@@ -23,7 +23,6 @@ A quick learner with strong **problem-solving, debugging, and team collaboration
 
 **Languages & Core**
 - Java  
-- JavaScript  
 
 **Backend**
 - Spring Boot  
@@ -43,8 +42,6 @@ A quick learner with strong **problem-solving, debugging, and team collaboration
 **Tools & Practices**
 - Git & GitHub  
 - Postman  
-- JIRA  
-- Agile Development  
 
 ---
 
@@ -69,6 +66,17 @@ A quick learner with strong **problem-solving, debugging, and team collaboration
 **Tech:** React, Spring Boot, Spring Data JPA  
 - Developed quiz logic, backend APIs, and data persistence  
 
+### 🔹 Banking Application (Core Java)
+**Tech:** Core Java, OOP, Collections, Exception Handling  
+
+- Built a console-based banking application using Core Java  
+- Implemented account creation, deposits, withdrawals, and balance inquiry  
+- Applied object-oriented principles for clean and maintainable design  
+- Used Java Collections to manage customer and account data  
+- Added exception handling for input validation and transaction safety  
+- Designed modular and scalable application structure  
+**Role:** Java Developer
+
 ---
 
 ## 🎓 Education
@@ -88,7 +96,7 @@ A quick learner with strong **problem-solving, debugging, and team collaboration
 ## 🤝 Experience & Activities
 - Member, **Computer Society of India (CSI)** – AITR Chapter  
 - Volunteer, **AcroSet 2025 IEEE Conference**  
-- Participant, **Tech-o-Tsav Web Designing Competition**  
+- Participant, **Tech-o-Tsav Web Designing Competition**  ,and we are on the 2nd position
 
 ---
 
